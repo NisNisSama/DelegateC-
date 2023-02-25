@@ -10,6 +10,8 @@ namespace PromenadeDansLeDesert
     {
         static void Main(string[] args)
         {
+            promenadeDansLeDesert maPromenade = new promenadeDansLeDesert();
+            maPromenade.Avancer();
         }
     }
 }
